@@ -1,4 +1,4 @@
-# Getting Followers
+# 🌐 Getting Followers
 
 ## Intro
 
@@ -25,9 +25,9 @@ __
 
 Here's how:
 
-1. &#x20;Add something to your bio, that shows people that you are someone who makes "GM"-tweets and is also replying to "GM"-tweets. For example, "GM reply guy".
+1. Add something to your bio, that shows people that you are someone who makes "GM"-tweets and is also replying to "GM"-tweets. For example, "GM reply guy".
 2. Find people who are already getting hundreds of likes for their "GM"-tweets.&#x20;
-3. Try to find fresh "GM"-tweets from them and click again on "likes" and start following the ones who are not only liking "GM"-tweets, but also have some followers (500+) and have something in their Bio/PFP related NFTs, otherwise you might end up following people who only like "GM"-tweets, but arent interested in your NFT tweets.
+3. Try to find fresh "GM"-tweets from them and click again on "likes" and start following the ones who are not only liking "GM"-tweets, but also have some followers (500+) and have something in their Bio/PFP related NFTs, otherwise you might end up following people who only like "GM"-tweets, but aren't interested in your NFT tweets.
 4. Usually people who like "GM"-tweets, do them themselves too. So by replying to their "GM"-tweets, you increase the chances of them following back. If you for example only follow them, the rate of them following back is at around 15-30%, but if you also start replying to their "GM"-tweets, the follow-back-rate can go up to even 50%.
 
 ## Following people who engage with your tweets
@@ -36,9 +36,9 @@ This is another key strategy that is very important. Because people who already 
 
 ## Unfollowing
 
-Firstly, it's very important to also unfollow people, because Twitter has limitations. If you follow significantly more people than you have followers, at some point you won't be able to follow more people. One of these limits is for example when you follow 5000 people. Until you havent reached at least 5000 followers, you are unable to follow more. So instead of grinding to 5000 follows with content only, you start unfollowing all the inactive accounts.
+Firstly, it's very important to also unfollow people, because Twitter has limitations. If you follow significantly more people than you have followers, at some point you won't be able to follow more people. One of these limits is for example when you follow 5000 people. Until you haven't reached at least 5000 followers, you are unable to follow more. So instead of grinding to 5000 follows with content only, you start unfollowing all the inactive accounts.
 
-For that purpose, you should use \<https://tweepi.com>. It's a site, which shows you all the people who didnt follow you back. You would then start unfollowing the ones, who havent tweeted since a long time (2+ month for example). You could also start unfollowing people who followed you back, but arent active anymore. Tweepi allows you to unfollow 75 people a day. But even after reaching that limit, you can still use Tweepi to spot more and unfollow them manually on Twitter.
+For that purpose, you should use \<https://tweepi.com>. It's a site, which shows you all the people who didn't follow you back. You would then start unfollowing the ones, who haven't tweeted since a long time (2+ month for example). You could also start unfollowing people who followed you back, but aren't active anymore. Tweepi allows you to unfollow 75 people a day. But even after reaching that limit, you can still use Tweepi to spot more and unfollow them manually on Twitter.
 
 ## Note
 
