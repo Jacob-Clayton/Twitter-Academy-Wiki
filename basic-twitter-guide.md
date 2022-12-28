@@ -15,7 +15,7 @@ The first impression someone gets from visiting your account is important becaus
 ## Profile Picture
 
 * Use an NFT as your profile picture. People from the same community will start following and supporting you.
-* Make sure not to alter/customize your NFT otherwise it won't get tracked by sites like https://nftinspect.com.
+* Make sure not to alter/customize your NFT otherwise it won't get tracked by sites like [https://nftinspect.com](https://nftinspect.com).
 
 ## Banner
 
