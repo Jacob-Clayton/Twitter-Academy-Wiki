@@ -1,3 +1,4 @@
 # Table of contents
 
 * [Twitter Academy](README.md)
+* [Basic Twitter Guide](basic-twitter-guide.md)
