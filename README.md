@@ -4,9 +4,7 @@ description: A Social media academy on Ape Gang's Discord
 
 # 🎓 Twitter Academy
 
-## Ape Gang NFT's Twitter growth Academy  <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
-
-Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) to get personal coaching & support to grow your Twitter.
+## Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) for personalzed Twitter growth coaching.
 
 ### What is Ape Gang?
 
@@ -58,3 +56,19 @@ After 1.5 years on Twitter we've learnt the best ways to grow! Our Moderator, [K
 </div>
 
 Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
+
+### Written by:
+
+<div>
+
+<figure><img src=".gitbook/assets/12347897.png" alt=""><figcaption><p><a href="https://twitter.com/pokermonfacenft">Pokermonface</a></p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AG1656.png" alt=""><figcaption><p><a href="https://twitter.com/kolsas_eth">Kolsas</a></p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/TheScientist_HD.png" alt=""><figcaption><p><a href="https://twitter.com/mepusica">Mepusica</a></p></figcaption></figure>
+
+</div>
