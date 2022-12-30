@@ -1,21 +1,43 @@
 ---
-description: A holders only social media growth academy on Ape Gang's Discord
+description: A Social media academy on Ape Gang's Discord
 ---
 
-# Twitter Academy
+# 🎓 Twitter Academy
 
-### Tips and Tricks for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
+## Ape Gang NFT's Twitter growth Academy  <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
 
-After 1.5 years on Twitter we've learnt the best ways to grow! Kool-Kong is sharing those tips with holders in one neat place where it's easy to follow. We'll help you grow on average 20-50 followers a day.
+Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) to get personal coaching & support to grow your Twitter.
+
+### What is Ape Gang?
+
+An OG pixel art NFT project with 3 collections - which all interact in the play-and-earn game _Fight Club_. With an ecosystem powered by the $GANG token.
+
+* 10,000 Ape Gang NFTs minted June 2021.
+* 7,800 Toucan Gang NFTs minted October 2021.
+* 5,000 Jaguar Gang NFTs minted April 2022.
+
+Community members use their Ape, Jaguar and Toucan NFTs to fight against one-another in Fight Club. It's a blast, you should definitely check it out!&#x20;
+
+Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
+
+## Tips for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
+
+After 1.5 years on Twitter we've learnt the best ways to grow! Our Moderator, [KoolKong](https://twitter.com/KoolKongNFT) is sharing those tips you and are proven to help you grow on average 30-60 followers a day.
+
+[Pokermonface](https://twitter.com/pokermonfacenft) has written three fantastic guides too:
+
+* [Basic Twitter Guide](basic-twitter-guide.md)
+* [Getting Followers Guide](getting-followers.md)
+* [Engagement Farming Guide](engagement-farming.md)
 
 **Ape Academy has guided 12 members to over 5,000 followers already!**
 
-### How to join: <a href="#how-to-join" id="how-to-join"></a>
+### How to join for personalised coaching: <a href="#how-to-join" id="how-to-join"></a>
 
-1. Own an Ape Gang NFT
+1. Own an [Ape Gang NFT](https://opensea.io/collection/ape-gang)
 2. Join the [Discord](https://discord.gg/ape-gang-841359732786331658) and verify your NFT
 3. Go to the #Ape-Academy channel and follow along!
-4. Have an Ape Gang pfp on Twitter
+4. Use an Ape Gang pfp on Twitter too
 
 <div>
 
@@ -34,3 +56,5 @@ After 1.5 years on Twitter we've learnt the best ways to grow! Kool-Kong is shar
 <figure><img src=".gitbook/assets/imagkksoe.png" alt=""><figcaption><p>Get personalised stats</p></figcaption></figure>
 
 </div>
+
+Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)

@@ -52,4 +52,4 @@ Every time you follow someone or someone follows you, it creates a new link to y
 4. Try to engage with their tweets, to increase the chances of them following you back.
 5. Make sure your followers- to following ratio is balanced. Try to avoid following more people than you have followers. Always balance it out by unfollowing inactive accounts with [https://tweepi.com](https://tweepi.com).&#x20;
 
-\
+Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)\

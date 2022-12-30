@@ -1,4 +1,4 @@
-# Basic Twitter Guide
+# 📑 Basic Twitter Guide
 
 ## Your Profile
 
@@ -15,7 +15,7 @@ The first impression someone gets from visiting your account is important becaus
 ## Profile Picture
 
 * Use an NFT as your profile picture. People from the same community will start following and supporting you.
-* Make sure not to alter/customize your NFT otherwise it won't get tracked by sites like https://nftinspect.com.
+* Make sure not to alter/customize your NFT otherwise it won't get tracked by sites like [https://nftinspect.com](https://nftinspect.com).
 
 ## Banner
 
@@ -46,4 +46,6 @@ _This is the most important thing, because this is where you try to convince som
 
 Enable 2FA for your account. The more you grow, the more likely it becomes that someone is trying to hack it.
 
-\
+
+
+Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)\

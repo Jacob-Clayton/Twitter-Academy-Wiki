@@ -1,4 +1,4 @@
-# Engagement Farming
+# 🚜 Engagement Farming
 
 ## What is engagement farming?
 
@@ -39,3 +39,4 @@ The next step would be, to repeat the process with other kinds of tweets. For ex
 With that strategy alone, you will be able to grow your engagement for "GM"-tweets to up to \~1000 likes per tweet. Depending on how aggressively you are doing it.
 
 \
+Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
