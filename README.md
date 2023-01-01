@@ -20,9 +20,11 @@ description: Ape Gang's social media academy
 
 ## Tips for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
 
-After 1.5 years on Twitter we've learnt the best ways to grow! Our Moderator, [KoolKong](https://twitter.com/KoolKongNFT) is sharing those tips you and are proven to help you grow on average 30-60 followers a day.
+After 1.5 years on Twitter we've learnt the best ways to grow!&#x20;
 
-[Pokermonface](https://twitter.com/pokermonfacenft) has written three fantastic guides too:
+[KoolKong](https://twitter.com/KoolKongNFT) is providing personalized tips - proven to help you grow 30-100 followers a day.
+
+[Pokermonface](https://twitter.com/pokermonfacenft) has written three fantastic guides:
 
 * [Basic Twitter Guide](basic-twitter-guide.md)
 * [Getting Followers Guide](getting-followers.md)
