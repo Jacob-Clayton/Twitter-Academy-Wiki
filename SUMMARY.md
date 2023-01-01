@@ -1,6 +1,9 @@
 # Table of contents
 
 * [🎓 Twitter Academy](README.md)
-* [📑 Basic Twitter Guide](basic-twitter-guide.md)
-* [🌐 Getting Followers](getting-followers.md)
-* [🚜 Engagement Farming](engagement-farming.md)
+
+## 📖 Guides
+
+* [📑 Basic Twitter Guide](guides/basic-twitter-guide.md)
+* [🌐 Getting Followers](guides/getting-followers.md)
+* [🚜 Engagement Farming](guides/engagement-farming.md)

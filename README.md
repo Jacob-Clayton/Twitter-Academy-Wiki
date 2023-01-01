@@ -26,9 +26,9 @@ After 1.5 years on Twitter we've learnt the best ways to grow!&#x20;
 
 [Pokermonface](https://twitter.com/pokermonfacenft) has written three fantastic guides:
 
-* [Basic Twitter Guide](basic-twitter-guide.md)
-* [Getting Followers Guide](getting-followers.md)
-* [Engagement Farming Guide](engagement-farming.md)
+* [Basic Twitter Guide](guides/basic-twitter-guide.md)
+* [Getting Followers Guide](guides/getting-followers.md)
+* [Engagement Farming Guide](guides/engagement-farming.md)
 
 **Ape Academy has guided 12 members to over 5,000 followers already!**
 
