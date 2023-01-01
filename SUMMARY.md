@@ -1,8 +1,10 @@
 # Table of contents
 
+## Academy
+
 * [🎓 Twitter Academy](README.md)
 
-## 📖 Guides
+## Guides
 
 * [📑 Basic Twitter Guide](guides/basic-twitter-guide.md)
 * [🌐 Getting Followers](guides/getting-followers.md)
