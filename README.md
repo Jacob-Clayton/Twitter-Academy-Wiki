@@ -4,7 +4,9 @@ description: Ape Gang's social media academy
 
 # 🎓 Twitter Academy
 
-## Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) for personalzed Twitter growth coaching.
+## Proven to get 500 followers in 5 days
+
+### Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) for personalized coaching.
 
 > ### What is Ape Gang?
 >
