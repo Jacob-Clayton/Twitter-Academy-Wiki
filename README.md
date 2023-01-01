@@ -1,5 +1,5 @@
 ---
-description: A Social media academy on Ape Gang's Discord
+description: Ape Gang's social media academy
 ---
 
 # 🎓 Twitter Academy
