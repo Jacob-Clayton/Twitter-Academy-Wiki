@@ -6,17 +6,17 @@ description: Ape Gang's social media academy
 
 ## Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) for personalzed Twitter growth coaching.
 
-### What is Ape Gang?
-
-An OG pixel art NFT project with 3 collections - which all interact in the play-and-earn game _Fight Club_. With an ecosystem powered by the $GANG token.
-
-* 10,000 Ape Gang NFTs minted June 2021.
-* 7,800 Toucan Gang NFTs minted October 2021.
-* 5,000 Jaguar Gang NFTs minted April 2022.
-
-Community members use their Ape, Jaguar and Toucan NFTs to fight against one-another in Fight Club. It's a blast, you should definitely check it out!&#x20;
-
-Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
+> ### What is Ape Gang?
+>
+> An OG pixel art NFT project with 3 collections - which all interact in the play-and-earn game _Fight Club_. With an ecosystem powered by the $GANG token.
+>
+> * 10,000 Ape Gang NFTs minted June 2021.
+> * 7,800 Toucan Gang NFTs minted October 2021.
+> * 5,000 Jaguar Gang NFTs minted April 2022.
+>
+> Community members use their Ape, Jaguar and Toucan NFTs to fight against one-another in Fight Club. It's a blast, you should definitely check it out!&#x20;
+>
+> Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
 
 ## Tips for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
 
