@@ -66,9 +66,6 @@ Join for personalised coaching including:
 
 Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
 
-\
-**Ape Academy has guided 12 members to over 5,000 followers already!**
-
 ### Written by:
 
 <div>
