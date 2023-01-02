@@ -34,7 +34,7 @@ Ape Gang's Twitter Academy is proven to get 500 followers in 5 days.
 
 Join for personalised coaching, including:
 
-* Step by step guide
+* Step by step guides
 * Access to advanced growth hacks and resources
 * One on one support & troubleshooting
 * Sparring with likeminded NFT & Web3 enthusiasts
