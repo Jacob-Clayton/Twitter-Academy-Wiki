@@ -1,4 +1,4 @@
-# 🌐 Getting Followers
+# 📊 Getting Followers
 
 ## Intro
 

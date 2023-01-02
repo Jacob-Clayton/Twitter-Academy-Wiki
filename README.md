@@ -4,7 +4,7 @@ description: Ape Gang's social media academy
 
 # 🎓 Twitter Academy
 
-After 1.5 years on NFT Twitter we've learnt some of the best ways to grow and the tips, hacks and strategies offered through Ape Gang’s Twitter Academy have already helped numerous holders achieve triple digit growth rates on Twitter.
+ter 1.5 years on NFT Twitter we've learnt some of the best ways to grow and the tips, hacks and strategies offered through Ape Gang’s Twitter Academy have already helped numerous holders achieve triple digit growth rates on Twitter.
 
 Now, we want to help more Web3 & NFT enthusiasts realise their full Twitter potential.&#x20;
 
@@ -48,7 +48,7 @@ Join for personalised coaching, including:
 
 <div>
 
-<figure><img src=".gitbook/assets/Ape-Gang-Ethereum-NFT-Collection-Inspect.png" alt=""><figcaption><p>See how everyone is progressing</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Ape-Gang-Ethereum-NFT-Collection-Inspect (1).png" alt=""><figcaption><p>See how everyone is progressing</p></figcaption></figure>
 
  
 
@@ -56,11 +56,11 @@ Join for personalised coaching, including:
 
  
 
-<figure><img src=".gitbook/assets/Inspect-Dive-Into-Web3-Communities.png" alt=""><figcaption><p>Grow your Twitter</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Ape-Gang-Ethereum-NFT-Collection-Inspect.png" alt=""><figcaption><p>Grow your Twitter</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/imagkksoe.png" alt=""><figcaption><p>Get personalised stats</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Inspect-Dive-Into-Web3-Communities (3).png" alt=""><figcaption><p>Watch your followers blow up</p></figcaption></figure>
 
 </div>
 
