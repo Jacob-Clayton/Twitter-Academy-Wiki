@@ -4,11 +4,11 @@ description: Ape Gang's social media academy
 
 # 🎓 Twitter Academy
 
-## Proven to get 500 followers in 5 days
+After 1.5 years on NFT Twitter we've learnt some of the best ways to grow and the tips, hacks and strategies offered through Ape Gang’s Twitter Academy have already helped numerous holders achieve triple digit growth rates on Twitter.
 
-### Join Ape Gang's [Discord](https://discord.gg/Gb7yWGnwWT) for personalized coaching.
+Now, we want to help more Web3 & NFT enthusiasts realise their full Twitter potential.&#x20;
 
-> ### What is Ape Gang?
+> ### But first, what is Ape Gang?
 >
 > An OG pixel art NFT project with 3 collections - which all interact in the play-and-earn game _Fight Club_. With an ecosystem powered by the $GANG token.
 >
@@ -20,11 +20,7 @@ description: Ape Gang's social media academy
 >
 > Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
 
-## Tips for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
-
-After 1.5 years on Twitter we've learnt the best ways to grow!&#x20;
-
-[KoolKong](https://twitter.com/KoolKongNFT) is providing personalized tips - proven to help you grow 30-100 followers a day.
+## Guides for Twitter growth <a href="#tips-and-tricks-for-twitter-growth" id="tips-and-tricks-for-twitter-growth"></a>
 
 [Pokermonface](https://twitter.com/pokermonfacenft) has written three fantastic guides:
 
@@ -32,9 +28,18 @@ After 1.5 years on Twitter we've learnt the best ways to grow!&#x20;
 * [Getting Followers Guide](guides/getting-followers.md)
 * [Engagement Farming Guide](guides/engagement-farming.md)
 
-**Ape Academy has guided 12 members to over 5,000 followers already!**
+## **Want more?**
 
-### How to join for personalised coaching: <a href="#how-to-join" id="how-to-join"></a>
+Ape Gang's Twitter Academy is proven to get 500 followers in 5 days.
+
+Join for personalised coaching including:
+
+* Step by step guide
+* Access to advanced growth hacks and resources
+* One on one support & troubleshooting
+* Sparring with likeminded NFT & Web3 enthusiasts
+
+### How to join? <a href="#how-to-join" id="how-to-join"></a>
 
 1. Own an [Ape Gang NFT](https://opensea.io/collection/ape-gang)
 2. Join the [Discord](https://discord.gg/ape-gang-841359732786331658) and verify your NFT
@@ -60,6 +65,9 @@ After 1.5 years on Twitter we've learnt the best ways to grow!&#x20;
 </div>
 
 Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
+
+\
+**Ape Academy has guided 12 members to over 5,000 followers already!**
 
 ### Written by:
 
