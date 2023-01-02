@@ -43,8 +43,8 @@ Join for personalised coaching including:
 
 1. Own an [Ape Gang NFT](https://opensea.io/collection/ape-gang)
 2. Join the [Discord](https://discord.gg/ape-gang-841359732786331658) and verify your NFT
-3. Go to the #Ape-Academy channel and follow along!
-4. Use an Ape Gang pfp on Twitter too
+3. Go to the #Ape-Academy channel and follow the advice!
+4. Use an Ape Gang pfp on Twitter to get tracked
 
 <div>
 
