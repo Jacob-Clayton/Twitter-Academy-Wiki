@@ -60,7 +60,7 @@ Join for personalised coaching, including:
 
  
 
-<figure><img src=".gitbook/assets/Inspect-Dive-Into-Web3-Communities (3).png" alt=""><figcaption><p>Watch your followers blow up</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Inspect-Dive-Into-Web3-Communities (4).png" alt=""><figcaption><p>Watch your followers blow up</p></figcaption></figure>
 
 </div>
 
