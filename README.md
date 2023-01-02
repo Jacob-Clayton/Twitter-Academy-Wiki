@@ -32,7 +32,7 @@ Now, we want to help more Web3 & NFT enthusiasts realise their full Twitter pote
 
 Ape Gang's Twitter Academy is proven to get 500 followers in 5 days.
 
-Join for personalised coaching including:
+Join for personalised coaching, including:
 
 * Step by step guide
 * Access to advanced growth hacks and resources
