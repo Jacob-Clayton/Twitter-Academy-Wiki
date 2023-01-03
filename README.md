@@ -10,7 +10,7 @@ Now, we want to help more Web3 & NFT enthusiasts realise their full Twitter pote
 
 > ### But first, what is Ape Gang?
 >
-> An OG pixel art NFT project with 3 collections - which all interact in the play-and-earn game _Fight Club_. With an ecosystem powered by the $GANG token.
+> An OG pixel art NFT project with the play-and-earn game _Fight Club_. Plus an ecosystem powered by the $GANG token.
 >
 > * 10,000 Ape Gang NFTs minted June 2021.
 > * 7,800 Toucan Gang NFTs minted October 2021.
