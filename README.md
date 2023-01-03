@@ -67,18 +67,8 @@ Join for personalised coaching, including:
 
 Ape Gang [Website](https://apegang.art/), [Wiki](https://wiki.apegang.art/), [Twitter](https://twitter.com/ApeGangNFT) & [Discord](https://discord.gg/Gb7yWGnwWT)
 
-### Written by:
+### Written by
 
-<div>
-
-<figure><img src=".gitbook/assets/12347897.png" alt=""><figcaption><p><a href="https://twitter.com/pokermonfacenft">Pokermonface</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/AG1656.png" alt=""><figcaption><p><a href="https://twitter.com/kolsas_eth">Kolsas</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/TheScientist_HD.png" alt=""><figcaption><p><a href="https://twitter.com/mepusica">Mepusica</a></p></figcaption></figure>
-
-</div>
+* [Kolsas](https://twitter.com/kolsas\_eth)
+* [Pokermonface](https://twitter.com/pokermonfacenft)
+* [Mepusica](https://twitter.com/mepusica)
