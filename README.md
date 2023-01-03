@@ -38,6 +38,7 @@ Join for personalised coaching, including:
 * Access to advanced growth hacks and resources
 * One on one support & troubleshooting
 * Sparring with likeminded NFT & Web3 enthusiasts
+* Plus receive NFT rewards & utility token
 
 ### How to join? <a href="#how-to-join" id="how-to-join"></a>
 
