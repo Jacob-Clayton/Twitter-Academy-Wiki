@@ -4,7 +4,9 @@ description: Ape Gang's social media academy
 
 # 🎓 Twitter Academy
 
-After 1.5 years on NFT Twitter we've learnt some of the best ways to grow and the tips, hacks and strategies offered through Ape Gang’s Twitter Academy have already helped numerous holders achieve triple digit growth rates on Twitter.
+After 1.5 years on NFT Twitter we've learnt some of the best ways to grow.
+
+The tips, hacks and strategies offered through Ape Gang’s Twitter Academy have already helped numerous holders achieve triple digit growth rates on Twitter.
 
 Now, we want to help more Web3 & NFT enthusiasts realise their full Twitter potential.&#x20;
 
