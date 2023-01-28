@@ -9,3 +9,4 @@
 * [📑 Basic Twitter Guide](guides/basic-twitter-guide.md)
 * [📊 Getting Followers](guides/getting-followers.md)
 * [🚜 Engagement Farming](guides/engagement-farming.md)
+* [🚀 Growth Guide](guides/growth-guide.md)
