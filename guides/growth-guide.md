@@ -12,13 +12,13 @@ Do not modify it, otherwise it won't get tracked by NFTinspect.
 
 [https://twitter.com/i/lists/1605837746580381696](https://twitter.com/i/lists/1605837746580381696)
 
-### 3. Follow 300 people from that list per day.&#x20;
+### 3. Follow people from that list.&#x20;
 
-**3.1** As soon as you run out of people to follow, make sure to look for people, who did a "GM" tweet within the last hour and follow the people who liked that tweet.
+**3.1** Only follow 300 people per day. As soon as you run out of people to follow, make sure to look for people, who posted a "GM" tweet within the last hour and follow the people who liked that tweet.
 
-**3.2** After following everyone on the list, look for fresh GM tweets and follow the people who liked them. The shorter the delay between their like and your follow, the higher the chances, that they are going to follow you back.
+**3.2** After following everyone on the list, look for fresh GM tweets and follow the people who liked them. The less time between their like and your follow, the higher the chances that they are going to follow you back.
 
-_IMPORTANT: Focus on following people, who dont follow you yet, to get the maximum out of your daily follows._
+_IMPORTANT: Focus on following people, who don't follow you yet, to get the maximum out of your daily follows._
 
 ### 4. Go to [https://tweetdeck.twitter.com](https://tweetdeck.twitter.com)
 
